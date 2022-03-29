@@ -1,0 +1,47 @@
+body {
+    padding: 30px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.car-item img {
+    width: 100%;
+    height: auto;
+}
+
+/* Need some inspiration to get out there and explore? */
+.images h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* Take a Hike, in Ohio. && Ohio's Regional Parks ("Metroparks"): ... */
+.images h2 {
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    width: auto;
+}
+
+/* the text right before/ right after videos */
+.images h3 {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+    width: auto;
+}
+
+/* descriptions of parks, under h2 elements */
+.images h4 {
+    font-size: 20px;
+    width: auto;
+}
+
+/* Need to resize the image to grow and shrink to different screeen sizes. */
+.images iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 315px;
+    box-shadow: 5px;
+}
